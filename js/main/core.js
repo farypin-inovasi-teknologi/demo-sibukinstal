@@ -4,19 +4,8 @@
 
 // 1. Buat "Buku Alamat" untuk masing-masing sekolah
 const tenantConfig = {
-    "demo": "https://script.google.com/macros/s/AKfycbyfNXMoC89bUeloyLiJMmN34pCKZFIYC-cF-zA4IP1eqTKZj8GzuiSI3lLhM5fYPS_7/exec",
-    "sman15tebo": "https://script.google.com/macros/s/AKfycbwIBecBNAosHeM88N8tzdKxMFZFr7wN89Wfb1fB6B-6sZ2AJ_C2VQncJV1lmsLo72qQ/exec",
+    "demo": "https://script.google.com/macros/s/AKfycbyizy-rICb_h1L5je594k4GgmJhLriJT1Wm3oijZlekvJEypzj1OtA_8y1CGlTJzieJUg/exec",
 
-    "smkn1kotaternate": "https://script.google.com/macros/s/AKfycbypfnJFHWwdwRwigATVcTKO67PbJYO5MtfeqFPDZKiPNjC0SmCH31VF3LFajev1R3Gd/exec",
-    "sman1tebo": "https://script.google.com/macros/s/AKfycbwzNOc-i5QlZwYOEtC9SwHFKo4fQsOiZohQdKT02UxQGYNUv3nYt1Kvv2NfcQDMex5ESw/exec",
-    "sman2tebo": "https://script.google.com/macros/s/AKfycbyAD3I6tjiBq6vjZx_GcdCKP1m5yWAkdNcVZ5cYuRo2SMUsJz6qtU6kTvvbPlVY9eMs/exec",
-    "sman5tebo": "https://script.google.com/macros/s/AKfycbwB_-EO-r-d6NlIKzGaJrjK-vtgaOTsRxGuppu3m1cFb53z1RShsV8ZUQ2ovikr2_qgrw/exec",
-    "sman17tebo": "https://script.google.com/macros/s/AKfycbwX51-G3e3Mvy-SUxElwJTSTgyPitdLH84GRLyxuCe0xWXmh_uQVEnX6ereTyiCwl4GKQ/exec",
-    "sman19tebo": "https://script.google.com/macros/s/AKfycbx6YkigF-4fDvb5G_gD7Rq1kS08peRgXHp9Poh1_q2-y-aqrEIQxYQz9Nmf31ZXFIca/exec",
-    "smkn1tebo": "https://script.google.com/macros/s/AKfycbw6WMBov4YsHwELoIZyZxZBYwFWhE_wkWPQXGylsCNrU03QtwXPqsl-UERszhZBkeRY/exec",
-    "smkn2tebo": "https://script.google.com/macros/s/AKfycbz5dJIjry3slK-tEt1VU5APjGi2mSacXovWdXq_e7Fww1DXyswL6cbC8RbaRhKdj461/exec",
-    "smkn4tebo": "https://script.google.com/macros/s/AKfycbxwZW-aOfENN1P-c1IxFlPJVMUge-HAcvi-tELvn3Ch-oOIZ0dZ6LdCjcE2nuE77mc/exec",
-    "slbntebo": "https://script.google.com/macros/s/AKfycbyqbdj7AnTv7ft_DaWwRZuDQMjkt7Yekvs7O8wwqghu5hCLYwMGwng7TgG5SknXzKcuYQ/exec",
     "sekolah1..": ""
     // Tambahkan sekolah lain di sini sesuai kebutuhan
 };
